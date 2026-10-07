@@ -1,0 +1,14 @@
+out/
+bin/
+*.class
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Material local de preparacion. No forma parte de la entrega en GitHub.
+*.zip
+arboles-grupo1_Estudiantes/
+PROMPT_ANTIGRAVITY_DIAGRAMAS.md
+Planificacion_Semana9_Arboles_Grupo1_v3.png
